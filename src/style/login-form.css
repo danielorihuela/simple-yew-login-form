@@ -1,0 +1,17 @@
+.logo-container {
+    align-self: center;
+    margin-top: 5%;
+}
+
+.logo {
+    width: 100px;
+}
+
+.login-form {
+    align-self: center;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+}

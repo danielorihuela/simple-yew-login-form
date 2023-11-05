@@ -1,0 +1,16 @@
+* Simple Yew Login Form
+
+I wanted to try some of the Rust WebApp frameworks to get an idea of how mature they
+are and their problems. As a simple test, I decided to write a "login" page form with
+a logo image, a submit button and two text fields. One for the username and one for the password.
+The submit button prints to the console the inputtd username and password.
+
+To run the app, execute
+
+#+begin_src bash
+trunk serve
+#+end_src
+
+You can now visit http://127.0.0.1:8080.
+
+[[example.png]]
